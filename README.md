@@ -66,7 +66,8 @@ Tools: Flask, React, yt-dlp, reCAPTCHA
 
 - GitHub: [github.com/asjid12](https://github.com/asjid12)  
 - LinkedIn: [linkedin.com/in/asjid-ali-3462b9352](https://www.linkedin.com/in/asjid-ali-3462b9352)  
-- Email: asjidali169@gmail.com  
+- Email: asjidali169@gmail.com
+- Portfolio:https://asjid-ali-portfolio.netlify.app
 
 ---
 
