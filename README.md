@@ -2,44 +2,53 @@
 
 🎓 BS Computer Science @ FAST NUCES (2021–2025)
 📍 Lahore, Pakistan
-💻 .NET Core Developer | AI Enthusiast | Full-Stack Problem Solver
+💻 .NET Core Developer | AI Enthusiast | Problem Solver
 
 💡 About Me
 
-I’m a passionate computer scientist and developer who loves building impactful, production-grade systems. My interests span AI, .NET Core backend development, and automation tools that bridge innovation and scalability.
-I thrive in fast-paced environments, delivering optimized and clean solutions for real-world challenges.
+I’m a passionate computer scientist dedicated to solving real-world problems through technology and automation. My focus areas include .NET Core backend development, AI, full-stack applications, and data-driven solutions.
+I enjoy creating tools and platforms that make a meaningful impact and scale efficiently.
 
 🔧 Skills
 
 Languages: C#, C/C++, JavaScript (MERN), Python, SQL, HTML/CSS, R
 Frameworks: ASP.NET Core, Flask, Streamlit, TensorFlow, PyTorch, React, Bootstrap
-Tools & Platforms: Git, Visual Studio, VS Code, Jupyter, MySQL, Oracle, Google Colab, Weka, Tableau
-Soft Skills: Problem Solving, Critical Thinking, Communication, Teamwork, Leadership
+Tools: Git, Visual Studio, VS Code, Jupyter Notebook, Oracle, MySQL, Google Colab, Weka, Tableau
+Soft Skills: Problem Solving, Critical Thinking, Communication, Teamwork
 
 💼 Experience
 🏢 .NET Core Developer @ Zauq Group
 
 (2024 – Present)
 
-Building high-performance multi-tenant APIs and automation platforms for enterprise-scale applications.
-🔸 Designed and implemented centralized messaging services using ASP.NET Core Web API, JWT Authentication, CQRS, and MediatR.
-🔸 Integrated TextMeBot API for unified customer communication across multiple Zauq products.
-🔸 Developed modular, maintainable architectures with Finbuckle.MultiTenant and FluentValidation.
-🔸 Collaborated with cross-functional teams to deploy and optimize real-time production APIs.
+Building modern, high-performance APIs and automation platforms for multiple enterprise products at Zauq Group.
+
+🔹 Designed and implemented a centralized messaging API with ASP.NET Core Web API, JWT Authentication, CQRS, and MediatR.
+🔹 Integrated TextMeBot API for unified communication across all Zauq platforms.
+🔹 Worked with Finbuckle.MultiTenant for multi-tenant architecture and FluentValidation for clean request handling.
+🔹 Delivered scalable, optimized APIs with real-time integrations and secure authentication.
 
 💻 Freelancer – AI Lead Automation Platform
 
 Tools: Supabase, OpenAI, Twilio, Stripe, n8n
-🔸 Built a full-stack AI sales automation MVP for real clients
-🔸 Automated customer outreach and payment flows using AI workflows
+🔹 Built a full-stack AI sales automation MVP for real clients.
+🔹 Automated customer outreach, lead scoring, and payment flows.
 
 💡 Backend Intern @ RankSol
 
 Tools: Flask, React, yt-dlp, reCAPTCHA
-🔸 Created a secure video downloader with live progress tracking
-🔸 Improved backend performance with asynchronous Flask routes
+🔹 Developed a secure video downloader with progress tracking.
+🔹 Implemented optimized async routes for performance improvement.
 
 🚀 Featured Projects
+🏭 OEE Monitoring System
+
+Real-time Overall Equipment Effectiveness (OEE) monitoring system for manufacturing analytics
+Tech: ASP.NET Core 8, SignalR, Entity Framework Core, SQL Server, Chart.js, Bootstrap 5
+🔸 Tracked equipment Availability, Performance, and Quality metrics
+🔸 Included real-time dashboards, automated event simulation, and role-based access
+🔸 Supported machine management, custom reporting, and alert system
+
 📚 Story Verse
 
 AI-powered personalized storybook generator for underserved schools
@@ -56,13 +65,13 @@ Tech: Flask, Bootstrap, Pandas, Cosine Similarity
 
 Retrieval-Augmented Generation chatbot for medical use
 Tech: Streamlit, FAISS, LangChain, Bio_ClinicalBERT
-🔸 Assisted medical students in navigating patient cases
+🔸 Helped medical students navigate patient cases
 
 📈 Cycling Market Analysis
 
-Web scraped urban cycling data for predictive planning
+Web-scraped cycling data for predictive planning
 Tech: Python, APIs, Tableau
-🔸 Supported city infrastructure decisions with data visualization
+🔸 Supported city infrastructure decisions with visualization
 
 📝 Roman Urdu Poetry Generator
 
