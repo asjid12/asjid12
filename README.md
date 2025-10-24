@@ -2,89 +2,88 @@
 
 🎓 BS Computer Science @ FAST NUCES (2021–2025)
 📍 Lahore, Pakistan
-💻 .NET Core Developer | AI Enthusiast | Problem Solver
+🔧 .NET Core Developer | AI Enthusiast | Problem Solver
 
 💡 About Me
 
-I’m a passionate computer scientist dedicated to solving real-world problems through technology and automation. My focus areas include .NET Core backend development, AI, full-stack applications, and data-driven solutions.
-I enjoy creating tools and platforms that make a meaningful impact and scale efficiently.
+I’m a passionate computer scientist dedicated to solving real-world problems through technology and automation.
+My focus areas include AI, full-stack development, data analysis, and creating tools that make an impact.
 
 🔧 Skills
 
-Languages: C#, C/C++, JavaScript (MERN), Python, SQL, HTML/CSS, R
-Frameworks: ASP.NET Core, Flask, Streamlit, TensorFlow, PyTorch, React, Bootstrap
+Languages: C/C++, C#, JavaScript (MERN), Python, SQL, HTML/CSS, R
+Frameworks: ASP.NET Core, Flask, Streamlit, TensorFlow, PyTorch, Bootstrap, React
 Tools: Git, Visual Studio, VS Code, Jupyter Notebook, Oracle, MySQL, Google Colab, Weka, Tableau
 Soft Skills: Problem Solving, Critical Thinking, Communication, Teamwork
 
 💼 Experience
-🏢 .NET Core Developer @ Zauq Group
+🏢 .NET Core Developer — Zauq Group
 
-(2024 – Present)
+Duration: 2025 – Present
 
-Building modern, high-performance APIs and automation platforms for multiple enterprise products at Zauq Group.
+Developing multi-tenant ASP.NET Core APIs for centralized communication across all Zauq products.
 
-🔹 Designed and implemented a centralized messaging API with ASP.NET Core Web API, JWT Authentication, CQRS, and MediatR.
-🔹 Integrated TextMeBot API for unified communication across all Zauq platforms.
-🔹 Worked with Finbuckle.MultiTenant for multi-tenant architecture and FluentValidation for clean request handling.
-🔹 Delivered scalable, optimized APIs with real-time integrations and secure authentication.
+Designed and implemented JWT-secured messaging services integrated with TextMeBot.
 
-💻 Freelancer – AI Lead Automation Platform
+Building enterprise-level, modular, and maintainable backends with CQRS, MediatR, and FluentValidation.
 
-Tools: Supabase, OpenAI, Twilio, Stripe, n8n
-🔹 Built a full-stack AI sales automation MVP for real clients.
-🔹 Automated customer outreach, lead scoring, and payment flows.
-
-💡 Backend Intern @ RankSol
-
-Tools: Flask, React, yt-dlp, reCAPTCHA
-🔹 Developed a secure video downloader with progress tracking.
-🔹 Implemented optimized async routes for performance improvement.
+Collaborating on large-scale projects like PharmaTrax and the Zauq Messaging API.
 
 🚀 Featured Projects
 🏭 OEE Monitoring System
 
-Real-time Overall Equipment Effectiveness (OEE) monitoring system for manufacturing analytics
+Real-time Overall Equipment Effectiveness (OEE) monitoring system for industrial manufacturing analytics.
 Tech: ASP.NET Core 8, SignalR, Entity Framework Core, SQL Server, Chart.js, Bootstrap 5
-🔸 Tracked equipment Availability, Performance, and Quality metrics
-🔸 Included real-time dashboards, automated event simulation, and role-based access
-🔸 Supported machine management, custom reporting, and alert system
+🔸 Tracks machine Availability, Performance, and Quality in real-time
+🔸 Includes role-based access, automated event simulation, and custom reporting
+🔸 Designed for production-grade reliability with background services and SignalR hubs
 
-📚 Story Verse
+📚 Book Recommendation System
 
-AI-powered personalized storybook generator for underserved schools
-Tech: MERN Stack, OpenAI API, Model Lab
-🔸 Enhanced learning engagement through locally relevant stories
-
-🔍 Book Recommendation System
-
-Collaborative filtering recommender using Flask & Scikit-learn
-Tech: Flask, Bootstrap, Pandas, Cosine Similarity
-🔸 Suggested books based on user preferences
+Personalized book recommender using collaborative filtering and content-based similarity.
+Tech: Flask, Pandas, Scikit-learn, Bootstrap
+🔸 Suggests books based on user behavior and preferences
+🔸 Fast cosine-similarity model with efficient Flask web interface
+🔸 Clean, user-friendly UI for exploring recommended titles
 
 🤖 Clinical Diagnosis RAG Chat
 
-Retrieval-Augmented Generation chatbot for medical use
-Tech: Streamlit, FAISS, LangChain, Bio_ClinicalBERT
-🔸 Helped medical students navigate patient cases
+Retrieval-Augmented Generation chatbot for clinical case reasoning and diagnosis support.
+Tech: Streamlit, LangChain, FAISS, Bio_ClinicalBERT
+🔸 Retrieves real medical context and generates AI-supported responses
+🔸 Built for medical students to practice diagnostic decision-making
+🔸 Uses domain-specific embeddings for high accuracy and relevance
 
-📈 Cycling Market Analysis
+🚴‍♂️ Copenhagen Cycling Data Analysis
 
-Web-scraped cycling data for predictive planning
-Tech: Python, APIs, Tableau
-🔸 Supported city infrastructure decisions with visualization
+Analytical exploration of urban cycling data for city-level insights and infrastructure planning.
+Tech: Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+🔸 Data-driven report on cycling behavior, safety, and traffic trends
+🔸 Visualized insights to support urban mobility improvements
+🔸 Predictive modeling for infrastructure and route optimization
 
-📝 Roman Urdu Poetry Generator
+🧠 Roman Urdu Poetry Generator
 
-LSTM model to generate poetic text in Roman Urdu
+Deep learning LSTM-based text generator for Roman Urdu poetic content.
 Tech: TensorFlow, NLP, Gradio
-🔸 Culturally rich natural language generation
+🔸 Generates poetic, emotionally resonant Urdu verses
+🔸 Trained on real poetry datasets for authentic language rhythm
+🔸 Interactive web UI for generating lines instantly
+
+📖 StoryVerse (FYP – AI Story Generator)
+
+AI-powered personalized storybook generator for underserved schools.
+Tech: MERN Stack, OpenAI API, Model Lab
+🔸 Generates personalized stories for children in local languages
+🔸 Enhances learning engagement through AI-driven storytelling
+🔸 Designed for nonprofit educational systems
 
 📫 Let's Connect
-
-🌐 Portfolio: asjid-ali-portfolio.netlify.app
 
 💼 LinkedIn: linkedin.com/in/asjid-ali-3462b9352
 
 💻 GitHub: github.com/asjid12
 
-📧 Email: asjidali169@gmail.com
+🌐 Portfolio: asjid-ali-portfolio.netlify.app
+
+✉️ Email: asjidali169@gmail.com
