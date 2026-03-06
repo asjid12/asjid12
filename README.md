@@ -60,7 +60,7 @@ Tech: TensorFlow, NLP, Gradio
 ## 💼 Experience
 
 **💻 .NET Core Developer – [Zauq Group](https://zauq.com/)**  
-*2024 – Present*  
+*2025 – Present*  
 Tools: ASP.NET Core 8, CQRS, MediatR, FluentValidation, Finbuckle.MultiTenant  
 🔸 Building scalable multi-tenant ASP.NET Core Web APIs for Zauq products  
 🔸 Implemented secure JWT authentication and validation pipelines  
